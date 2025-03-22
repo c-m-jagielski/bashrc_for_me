@@ -1,0 +1,3 @@
+# Custom things to add on Raspberry pi
+
+alias ll="ls -l"
